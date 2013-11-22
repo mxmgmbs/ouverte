@@ -1,4 +1,4 @@
-ouverte
+L'Ouverte
 =======
 
 L’Ouverte est une police de caractères typographique que je développe dans le cadre de mon DNAT à l’Ésad Valence. C’est un projet sur lequel j’interviendrais de manière hebdomadaire, mais c’est avant tout par un processus participatif que la police va se développer.
