@@ -11,9 +11,14 @@ Elle est diffusée sous OPEN FONT LICENCE (OFL), attachée à ce document. N’h
 
 Le principe de la publier avec GITHUB est motivé par deux aspects :
 
-	1) Pouvoir partager la progression de mon travail sur la fonte au fil des étapes de création, sur un rythme régulier. Je suis ouvert à toute critique constructive dans l’optique d’avoir un retour sur mon travail.
+	1) Pouvoir partager la progression de mon travail sur la fonte au fil des étapes de création, 
+	sur un rythme régulier. Je suis ouvert à toute critique constructive 
+	dans l’optique d’avoir un retour sur mon travail.
 
-	2) Intégrer la démarche Open-source au processus créatif. Est ainsi convié à participer un public extérieur, lequel pourra enrichir le projet de manière imprévisible, m’aider à prendre des décisions sur la fonte et complétera peut-être mes connaissances lacunaires sur la création de caractères. 
+	2) Intégrer la démarche Open-source au processus créatif. Est ainsi convié à participer un public extérieur,
+	lequel pourra enrichir le projet de manière imprévisible, 
+	m’aider à prendre des décisions sur la fonte 
+	et complétera peut-être mes connaissances lacunaires sur la création de caractères. 
 
 
 Avec ce projet, je souhaite donc questionner la méthodologie du design de caractères typographiques en l’intégrant dans le champ de la culture du libre. 
