@@ -1,4 +1,6 @@
 ouverte
 =======
 
-L’Ouverte est une police de caractères typographique que je développe dans le cadre de mon DNAT. C’est un projet sur lequel j’interviendrais de manière hebdomadaire, mais c’est avant par un processus participatif que la police va se développer.
+Ouverte is a typeface I’m working on for my graphic designer diploma. 
+I’ll work weekly on that project, but I want it to be as open as possible. 
+Feel free to modify, improve, complete the existing glyphs.
