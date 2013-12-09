@@ -2,98 +2,166 @@ SplineFontDB: 3.0
 FontName: Ouverte
 FullName: Ouverte
 FamilyName: Ouverte
-Weight: Regular
+Weight: Normal
 Copyright: Open Font Licence - 2013 - Initiated by Maxime Gambus
-UComments: "2013-11-12: Created with FontForge (http://fontforge.org)" 
-FontLog: "FONTLOG for the Ouverte font.+AAoACgAA-This file provides detailed information on the Ouverte Font Software.+AAoA-This information should be distributed along with the Ouverte font+AAoA-and any derivative works.+AAoACgAA-Basic Font Information+AAoACgAA-Ouverte is a Unicode typeface family that supports all languages that+AAoA-use the Latin script and its variants, and could be expanded to support other+AAoA-scripts.+AAoACgAA-ChangeLog+AAoACgAA-Day Month Year (Name) +AAoA - Explanation of the modifications +AAoA-5 11 13 (Maxime Gambus)+AAoA	- Beginning of the projet. Release of the letter R.+AAoACgAKAAoA-Acknowledgements+AAoACgAA-If you make modifications be sure to add your name (N), email (E), web-address+AAoA(if you have one) (W) and description (D). This list is in alphabetical order.+AAoACgAA-N: +AAoA-E:+AAoA-W:+AAoA-D: +AAoA" 
-Version: 001.000
+Version: 001.001
 ItalicAngle: 0
 UnderlinePosition: -100
 UnderlineWidth: 50
 Ascent: 800
 Descent: 200
+sfntRevision: 0x00010000
 LayerCount: 2
 Layer: 0 0 "Back"  1
 Layer: 1 0 "Fore"  0
-XUID: [1021 326 -405355259 3329356]
+XUID: [1021 326 -405355259 9135051]
 FSType: 0
-OS2Version: 0
+OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
-CreationTime: 1384246434
-ModificationTime: 1386168967
+CreationTime: 1386169526
+ModificationTime: 1386621922
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
 LineGap: 90
 VLineGap: 0
-OS2TypoAscent: 0
-OS2TypoAOffset: 1
-OS2TypoDescent: 0
-OS2TypoDOffset: 1
+Panose: 2 0 5 3 0 0 0 0 0 0
+OS2TypoAscent: 800
+OS2TypoAOffset: 0
+OS2TypoDescent: -200
+OS2TypoDOffset: 0
 OS2TypoLinegap: 90
-OS2WinAscent: 0
-OS2WinAOffset: 1
-OS2WinDescent: 0
-OS2WinDOffset: 1
-HheadAscent: 0
-HheadAOffset: 1
-HheadDescent: 0
-HheadDOffset: 1
+OS2WinAscent: 985
+OS2WinAOffset: 0
+OS2WinDescent: 15
+OS2WinDOffset: 0
+HheadAscent: 800
+HheadAOffset: 0
+HheadDescent: -200
+HheadDOffset: 0
+OS2SubXSize: 650
+OS2SubYSize: 600
+OS2SubXOff: 0
+OS2SubYOff: 75
+OS2SupXSize: 650
+OS2SupYSize: 600
+OS2SupXOff: 0
+OS2SupYOff: 350
+OS2StrikeYSize: 50
+OS2StrikeYPos: 220
 OS2Vendor: 'PfEd'
-MarkAttachClasses: 1
+OS2CodePages: 00000001.00000000
+OS2UnicodeRanges: 00000000.00000000.00000000.00000000
 DEI: 91125
-LangName: 1033 
-Encoding: ISO8859-1
+LangName: 1033 "" "" "Regular" "FontForge 2.0 : Ouverte : 4-12-2013" "" "Version 001.000 " "" "Please refer to the Copyright section for the font trademark attribution notices." "" "" "" "" "" "" "" "" "Ouverte" "Regular" 
+Encoding: UnicodeBmp
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 64 16 4
-BeginPrivate: 3
+WinInfo: 50 25 10
+BeginPrivate: 4
 BlueValues 15 [-20 0 803 803]
-StemSnapV 5 [181]
+BlueShift 1 0
+StdHW 4 [85]
 StdVW 5 [181]
 EndPrivate
-Grid
--1000 735 m 0
- 2000 735 l 0
-EndSplineSet
-TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 256 2
+BeginChars: 65537 5
 
-StartChar: R
-Encoding: 82 82 0
-Width: 566
-VWidth: 0
+StartChar: .notdef
+Encoding: 65536 -1 0
+Width: 500
 Flags: MW
-HStem: 651 85<178 315.104>
-VStem: 60 95
+HStem: 0 50<100 400 100 450> 483 50<100 400 100 100>
+VStem: 50 50<50 50 50 483> 400 50<50 483 483 483>
 LayerCount: 2
 Fore
 SplineSet
-424 -15 m 1
- 531 0 l 1
- 306 333 l 1
- 409 342 471 362.209960938 471 524 c 0
- 471 694 359 736 225 736 c 2
- 60 736 l 1
- 60 0 l 1
- 155 0 l 1
- 155 651 l 25
- 187 651 l 2
- 311 651 375 620 375 524 c 0
- 375 390.1796875 315 408 159 382 c 1
- 424 -15 l 1
+50 0 m 1
+ 50 533 l 1
+ 450 533 l 1
+ 450 0 l 1
+ 50 0 l 1
+100 50 m 1
+ 400 50 l 1
+ 400 483 l 1
+ 100 483 l 1
+ 100 50 l 1
 EndSplineSet
 EndChar
 
 StartChar: C
 Encoding: 67 67 1
 Width: 464
-VWidth: 0
-Flags: HW
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: R
+Encoding: 82 82 2
+Width: 7
+Flags: MW
+HStem: 651 85<155 187 60 155>
+VStem: 60 95<0 651 0 736 0 736>
+LayerCount: 2
+Fore
+SplineSet
+531 0 m 1
+ 424 -15 l 1
+ 159 382 l 1
+ 315 408 375 390 375 524 c 0
+ 375 620 311 651 187 651 c 2
+ 155 651 l 1
+ 155 0 l 1
+ 60 0 l 1
+ 60 736 l 1
+ 155 736 l 2
+ 178 736 202 736 225 736 c 0
+ 359 736 471 694 471 524 c 0
+ 471 362 409 342 306 333 c 1
+ 531 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: B
+Encoding: 66 66 3
+Width: 549
+Flags: MW
+HStem: 0 85<60 187 155 187 187 225 155 187> 371 53<160 344> 651 85<155 187 60 155>
+VStem: 60 95<0 651 0 736 0 736> 375 91<475 572> 413 91<148.5 253.5>
+LayerCount: 2
+Fore
+SplineSet
+160 424 m 1xf8
+ 317 424 375 426 375 524 c 0
+ 375 620 311 651 187 651 c 2
+ 155 651 l 1
+ 155 0 l 1
+ 60 0 l 1
+ 60 736 l 1
+ 155 736 l 2
+ 178 736 202 736 225 736 c 0
+ 359 736 466 694 466 524 c 0
+ 466 421 390 371 298 371 c 0
+ 253 371 204 405 160 424 c 1xf8
+155 0 m 1
+ 155 85 l 1
+ 187 85 l 2
+ 311 85 413 85 413 212 c 0
+ 413 295 368 352 209 352 c 1
+ 160 424 l 1
+ 376 413 504 359 504 212 c 0xf4
+ 504 0 359 0 225 0 c 2
+ 155 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: space
+Encoding: 32 32 4
+Width: 500
+Flags: W
 LayerCount: 2
 EndChar
 EndChars
