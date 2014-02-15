@@ -26,5 +26,11 @@
 	<string>E_.glif</string>
 	<key>F</key>
 	<string>F_.glif</string>
+	<key>degree</key>
+	<string>degree.glif</string>
+	<key>e</key>
+	<string>e.glif</string>
+	<key>A</key>
+	<string>A_.glif</string>
     </dict>
 </plist>
