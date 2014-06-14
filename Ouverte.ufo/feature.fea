@@ -1,6 +1,6 @@
 
 
-@GDEF_Simple = [\C \R \B \space \b \g \h \G \P \E \F \degree \e \A \z \a \Z ];
+@GDEF_Simple = [\C \R \B \space \b \g \h \G \P \E \F \degree \e \A \z \a \Z \L \one \p ];
 
 table GDEF {
   GlyphClassDef @GDEF_Simple, , , ;

@@ -32,5 +32,13 @@
 	<string>e.glif</string>
 	<key>A</key>
 	<string>A_.glif</string>
+	<key>z</key>
+	<string>z.glif</string>
+	<key>a</key>
+	<string>a.glif</string>
+	<key>Z</key>
+	<string>Z_.glif</string>
+	<key>L</key>
+	<string>L_.glif</string>
     </dict>
 </plist>
