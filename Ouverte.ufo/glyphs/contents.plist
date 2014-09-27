@@ -40,5 +40,59 @@
 	<string>Z_.glif</string>
 	<key>L</key>
 	<string>L_.glif</string>
+	<key>one</key>
+	<string>one.glif</string>
+	<key>p</key>
+	<string>p.glif</string>
+	<key>M</key>
+	<string>M_.glif</string>
+	<key>D</key>
+	<string>D_.glif</string>
+	<key>I</key>
+	<string>I_.glif</string>
+	<key>T</key>
+	<string>T_.glif</string>
+	<key>S</key>
+	<string>S_.glif</string>
+	<key>parenleft</key>
+	<string>parenleft.glif</string>
+	<key>parenright</key>
+	<string>parenright.glif</string>
+	<key>H</key>
+	<string>H_.glif</string>
+	<key>K</key>
+	<string>K_.glif</string>
+	<key>J</key>
+	<string>J_.glif</string>
+	<key>hyphen</key>
+	<string>hyphen.glif</string>
+	<key>i</key>
+	<string>i.glif</string>
+	<key>O</key>
+	<string>O_.glif</string>
+	<key>Q</key>
+	<string>Q_.glif</string>
+	<key>U</key>
+	<string>U_.glif</string>
+	<key>X</key>
+	<string>X_.glif</string>
+	<key>W</key>
+	<string>W_.glif</string>
+	<key>V</key>
+	<string>V_.glif</string>
+	<key>N</key>
+	<string>N_.glif</string>
+	<key>Y</key>
+	<string>Y_.glif</string>
+	<key>period</key>
+	<string>period.glif</string>
+	<key>comma</key>
+	<string>comma.glif</string>
+	<key>colon</key>
+	<string>colon.glif</string>
+	<key>semicolon</key>
+	<string>semicolon.glif</string>
+	<key>zero</key>
+	<string>zero.glif</string>
     </dict>
 </plist>
