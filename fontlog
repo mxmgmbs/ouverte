@@ -8,7 +8,8 @@ Basic Font Information
 
 Ouverte is a Unicode typeface family that supports all languages that
 use the Latin script and its variants, and could be expanded to support other
-scripts.
+scripts. 
+It's published under the SIL OFL licence, the one that you can find in the folder with the FAQ.
 
 ChangeLog
 
@@ -32,6 +33,9 @@ Day Month Year (Name)
 
 14 06 14 (Maxime Gambus)
 	- Released of the C, D, H, I, K, M, S, T letters.
+	
+27 09 14 (Maxime Gambus)
+- Released of the punctuation (.,:;) and the first numbers (0,1).
 
 
 Acknowledgements
